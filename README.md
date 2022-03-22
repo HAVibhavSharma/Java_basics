@@ -1,2 +1,2 @@
-# JavaScript-Projecsts
-Some of my JavaScript projects 
+# JavaScript-Projects
+Some of my JavaScript projects
